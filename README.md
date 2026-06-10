@@ -1,1 +1,1 @@
-2D Editor
+A 2D graphics editor using a character-based buffer. Supports drawing, adding, deleting, and modifying geometric shapes (circles, lines, rectangles, triangles) via CLI or ncurses. Perfect for terminal-based visualization.
